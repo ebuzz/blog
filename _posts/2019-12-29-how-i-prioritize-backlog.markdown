@@ -21,7 +21,7 @@ The feedback from our users is critical to deliver the best product that fits ou
 
 
 - **User Interviews**
-The objective of these sessions is to get our users to talk about their problems regarding an specific topics, for it to be succesfull i involved the rest of Product Team, 
+The objective of these sessions is to get our users to talk about their problems regarding an specific topics, for this i involve part of the Product Team that is owner of the Product for it to be succesfull i involved the rest of Product Team, 
 - **Dedicated chat group**
 We came up with a support channel where users can not only ask for support but clarify questions or give suggestions related to the Products we support.
 - **Internal Forum**
