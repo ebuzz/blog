@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How do i prioritize the Product Backlog?"
+title:  "How do I prioritize the Product Backlog?"
 date:   2020-01-02 17:17:01 -0800
 categories: post ebuzz
 ---
