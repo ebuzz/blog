@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "3 little tips for your work internship"
+title:  "3 little tips for your first internship"
 date:   2020-07-27 17:17:01 -0800
 categories: post ebuzz
 ---
 
-_Trainee, internship_ 
+_Hoping this little advice can make a difference_ 
 
 # Background
 Being a former software development intern and now an employee with more /*experience*/ I now get some struggles that some of share when we just started our professional career. Having now the opportunity to work with amazing young people in the team there are three things I always procure to share with them:
@@ -26,8 +26,7 @@ Don't be afraid to take the hard work. If the team has assigned you hard work is
 You are part of the team, don't be shy to express your opinion about that design or a decision that is going be taken about an specific approach, your voice has value and we'd like to know what you think.
 
 
-Just wanted to share this, thanks for reading be safe.
-d
+Just wanted to share this, thanks for reading be safe. 
 
 
 
