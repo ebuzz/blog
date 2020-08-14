@@ -20,7 +20,7 @@ Like scientists we engineers put a high value on empirical evidence and the data
 
 And don't get me wrong, I still believe that data is a very powerful thing and that it's correct usage can lead to better product decisions, is just that I don't leave intution/opinions out of the ecuation, they are valuable and depending on the context they can be the biggest starting point when there is uncertainty, I don't threat them as the truth but as an *hypothesis* that's worth validating.
 
-![Drag Racing](https://github.com/ebuzz/blog/blob/gh-pages/images/cat-an.jpg)
+![Drag Racing](https://raw.githubusercontent.com/ebuzz/blog/gh-pages/images/cat-an.jpg)
 
 
 
