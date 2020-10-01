@@ -25,6 +25,10 @@ But like everyday life, every decision comes with a risk and really understandin
 # Conclusion
 Could previous three points mentioned here be accomplished without technical background? I am pretty sure it is possible, but why miss the opportunity to learn more about your product and connect more with your development teamates?
 
+**It's all about empathy, don't do this please :)**
+
+ ![Drag Racing](https://ardalis.com/img/estimates-deadlines.jpg)
+
 
 
 
